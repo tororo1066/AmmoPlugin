@@ -1,11 +1,11 @@
-package tororo1066.ammoplugin.inventory
+package ammoplugin.ammoplugin.inventory
 
 import org.bukkit.Bukkit
 import org.bukkit.NamespacedKey
 import org.bukkit.inventory.ItemStack
 import org.bukkit.persistence.PersistentDataType
-import tororo1066.ammoplugin.AmmoPlugin
-import tororo1066.ammoplugin.data.AmmoPack
+import ammoplugin.ammoplugin.AmmoPlugin
+import ammoplugin.ammoplugin.data.AmmoPack
 import tororo1066.tororopluginapi.sInventory.SInventory
 import tororo1066.tororopluginapi.sItem.SItem.Companion.toBase64Items
 

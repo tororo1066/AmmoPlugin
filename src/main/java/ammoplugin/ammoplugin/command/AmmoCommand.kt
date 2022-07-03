@@ -1,9 +1,9 @@
-package tororo1066.ammoplugin.command
+package ammoplugin.ammoplugin.command
 
 import org.bukkit.Bukkit
 import org.bukkit.Material
 import org.bukkit.persistence.PersistentDataType
-import tororo1066.ammoplugin.AmmoPlugin
+import ammoplugin.ammoplugin.AmmoPlugin
 import tororo1066.tororopluginapi.sCommand.*
 import tororo1066.tororopluginapi.sItem.SItem
 import java.util.function.Consumer

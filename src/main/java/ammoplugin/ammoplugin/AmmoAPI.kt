@@ -1,4 +1,4 @@
-package tororo1066.ammoplugin
+package ammoplugin.ammoplugin
 
 import net.kyori.adventure.text.Component
 import net.kyori.adventure.text.event.ClickEvent
@@ -10,8 +10,8 @@ import org.bukkit.entity.Player
 import org.bukkit.inventory.EquipmentSlot
 import org.bukkit.inventory.ItemStack
 import org.bukkit.persistence.PersistentDataType
-import tororo1066.ammoplugin.data.AmmoPack
-import tororo1066.ammoplugin.inventory.AmmoInv
+import ammoplugin.ammoplugin.data.AmmoPack
+import ammoplugin.ammoplugin.inventory.AmmoInv
 import tororo1066.tororopluginapi.sItem.SItem
 import tororo1066.tororopluginapi.sItem.SItem.Companion.toBase64Items
 import tororo1066.tororopluginapi.sItem.SItem.Companion.toItems

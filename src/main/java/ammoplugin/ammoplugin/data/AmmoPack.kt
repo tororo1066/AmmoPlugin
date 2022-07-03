@@ -1,4 +1,4 @@
-package tororo1066.ammoplugin.data
+package ammoplugin.ammoplugin.data
 
 import org.bukkit.inventory.ItemStack
 
