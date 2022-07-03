@@ -1,0 +1,6 @@
+name: AmmoPlugin
+version: '${version}'
+main: tororo1066.ammoplugin.AmmoPlugin
+api-version: 1.17
+commands:
+  ammo:

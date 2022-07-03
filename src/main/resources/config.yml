@@ -1,0 +1,5 @@
+templateData:
+  default:
+    IRON_SWORD:
+      Test: 1
+      Tororo: 2
