@@ -1,4 +1,4 @@
-package ammoplugin.ammoplugin.data
+package tororo1066.ammoplugin.data
 
 import org.bukkit.Material
 

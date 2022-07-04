@@ -1,10 +1,9 @@
-package ammoplugin.ammoplugin.listener
+package tororo1066.ammoplugin.listener
 
 import org.bukkit.Sound
 import org.bukkit.event.player.PlayerInteractEvent
 import org.bukkit.persistence.PersistentDataType
-import ammoplugin.ammoplugin.AmmoAPI
-import ammoplugin.ammoplugin.AmmoPlugin
+import tororo1066.ammoplugin.AmmoPlugin
 import tororo1066.tororopluginapi.sEvent.SEvent
 import tororo1066.tororopluginapi.sItem.SItem
 

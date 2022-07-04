@@ -1,10 +1,9 @@
-package ammoplugin.ammoplugin
+package tororo1066.ammoplugin
 
-import org.bukkit.Bukkit
 import org.bukkit.Material
-import ammoplugin.ammoplugin.command.AmmoCommand
-import ammoplugin.ammoplugin.data.TemplateData
-import ammoplugin.ammoplugin.listener.AmmoListener
+import tororo1066.ammoplugin.command.AmmoCommand
+import tororo1066.ammoplugin.data.TemplateData
+import tororo1066.ammoplugin.listener.AmmoListener
 import tororo1066.tororopluginapi.SJavaPlugin
 
 class AmmoPlugin: SJavaPlugin() {
